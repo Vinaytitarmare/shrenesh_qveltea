@@ -35,7 +35,7 @@
     </div>
 
 <a href="home"><button class="bg-gray-200">(only for running)click me to navigate to home page for now</button></a>
-
+<a href="land_page"><button class="bg-gray-200">(only for running)click me to navigate to landing page for now</button></a>
     <!-- Sign Up Link -->
     <p class="text-center text-gray-600 mt-4">Already have an account? <a href="signup" class="text-blue-500 hover:underline">Sign Up</a></p>
 
