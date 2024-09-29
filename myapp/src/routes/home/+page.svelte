@@ -7,7 +7,11 @@
     <title>Document</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
-    
+    <style>
+        body {
+          font-family: 'Poppins', sans-serif;
+        }
+      </style>  
 </head>
 <body class="">
     <div class="fixed top-0 left-0  h-screen  bg-neutral-700 text-white transition-width duration-300 ease-in-out w-60 " id="sidebar">
