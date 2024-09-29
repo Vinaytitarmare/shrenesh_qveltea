@@ -26,7 +26,7 @@
         <div><a href="download">Download</a></div>
         <div><a href="">Support</a></div>
         <div><a href="">Jobs</a></div>
-        <div><a href="">Campaigns</a></div>
+        <div><a href="about">About</a></div>
         <div>
           <button class="bg-[#49b6c5] text-white rounded-2xl mr-3 px-4 py-1"
             ><a href="login">Login</a></button

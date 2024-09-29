@@ -26,7 +26,7 @@
         <div><a href="download">Download</a></div>
         <div><a href="">Support</a></div>
         <div><a href="">Jobs</a></div>
-        <div><a href="">Campaigns</a></div>
+        <div><a href="about">About</a></div>
         <div>
           <button class="bg-[#49b6c5] text-white rounded-2xl mr-3 px-4 py-1"
             ><a href="login">Login</a></button
@@ -38,7 +38,7 @@
     <div class="flex flex-col mt-[12vh] justify-around">
       <div class="flex flex-wrap items-center justify-around mx-auto">
         <img src="icon/About.png" alt="" />
-        <div class="text-2xl font-bold mb-4">
+        <div class="text-xl font-bold mb-4">
           <pre><b class="">     For a more seamless experience,</b></pre>
           <pre><b>  Download Gradsy on your device now !</b></pre>
         </div>
@@ -46,7 +46,7 @@
 
       <!-- <div class="flex    "> -->
         <div class="flex flex-wrap justify-center gap-10 ">
-          <div class="flex flex-col w-[20rem] h-[22rem] gap-6 justify-center items-center text-2xl font-bold rounded-2xl bg-gray-200"  style="box-shadow: 10px 10px 20px gray;">
+          <div class="flex flex-col w-[20rem] h-[22rem] gap-6 justify-center items-center text-xl font-bold rounded-2xl bg-gray-200"  style="box-shadow: 10px 10px 20px gray;">
             <div><img src="icon/window.png" class="h-[9rem]  rounded-lg mx-auto" alt="" /></div>
             <div><p >Download for Windows</p></div>
             <div>
@@ -56,7 +56,7 @@
               >
             </div>
           </div>
-          <div style="box-shadow: 10px 10px 20px gray;" class="flex flex-col w-[20rem] h-[22rem] gap-6 justify-center items-center text-white text-2xl font-bold rounded-2xl bg-[#2E2E30]">
+          <div style="box-shadow: 10px 10px 20px gray;" class="flex flex-col w-[20rem] h-[22rem] gap-6 justify-center items-center text-white text-xl font-bold rounded-2xl bg-[#2E2E30]">
             <div><img src="icon/playstore.png" class=" h-[9rem] mx-auto" alt="" /></div>
             <div><p>Download for Android</p></div>
             <div>
@@ -66,7 +66,7 @@
               >
             </div>
           </div>
-          <div style="box-shadow: 10px 10px 20px gray;" class="flex flex-col w-[20rem] h-[22rem] gap-6 justify-center items-center rounded-2xl text-2xl font-bold bg-gray-200">
+          <div style="box-shadow: 10px 10px 20px gray;" class="flex flex-col w-[20rem] h-[22rem] gap-6 justify-center items-center rounded-2xl text-xl font-bold bg-gray-200">
             <div><img src="icon/apple.png" alt="" class="h-[9rem] mx-auto" /></div>
             <div><p>Download for IOS</p></div>
             <div>
